@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.huawei.com/'
     company_logo: org-x
     location: Nanjin, China
-    date_start: '2021-03-021'
+    date_start: '2021-03-21'
     date_end: '2022-04-01'
     description: |2-
         Responsibilities include:
@@ -36,14 +36,14 @@ experience:
         * Delivering modules to fulfill clients' requirements
         * Maintaining and sustaining the operation of switches' system
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  # - title: Professor of Semiconductor Physics
+  #   company: University X
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2020-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
