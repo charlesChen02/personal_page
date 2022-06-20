@@ -25,7 +25,7 @@ experience:
   - title: Embedded Software Engineer
     company: Huawei
     company_url: 'https://www.huawei.com/'
-    company_logo: huawei_logo_
+    company_logo: org-x
     location: Nanjin, China
     date_start: '2021-03-021'
     date_end: '2022-04-01'
