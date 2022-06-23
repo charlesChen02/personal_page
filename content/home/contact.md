@@ -27,13 +27,13 @@ content:
   # Contact details (edit or remove options as required)
   email: chaoyinc@student.unimelb.edu.au
   # phone: 888 888 88 88
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
-  #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
+  address:
+    street: Grattan Street, Parkville,
+    city: Melbourne
+    region: Victoria
+    postcode: '3010'
+    country: Australia
+    country_code: AU
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
@@ -42,11 +42,11 @@ content:
   #   - 'Monday 09:00 to 18:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  # contact_links:
-  #   - icon: twitter
-  #     icon_pack: fab
-  #     name: DM Me
-  #     link: 'https://twitter.com/Twitter'
+  contact_links:
+    - icon: linkedin
+      icon_pack: fab
+      name: Connect Me
+      link: 'https://www.linkedin.com/in/chaoyin-chen-8246ab203'
   #   - icon: video
   #     icon_pack: fas
   #     name: Zoom Me
