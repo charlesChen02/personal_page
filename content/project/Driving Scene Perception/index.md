@@ -1,9 +1,9 @@
 ---
-title: Fine-grained Image Localization
-summary: Evaluating the position of the location taken based on a set of given photos with coordinates.
+title: Semantic Segmentation with point clouds with driving scene perception
+summary: Master research topic on the deep learning for automonous driving.
 tags:
-  - Computer Vision
-date: '2021-10-01T00:00:00Z'
+  - Deep Learning
+date: '2022-02-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

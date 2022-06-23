@@ -32,10 +32,8 @@ content:
       tag: '*'
     - name: Computer Vision
       tag: Computer Vision
-    - name: Binocular Stereo Vision
-      tag: Binocular Stereo Vision
-    - name: Texture Evaluation
-      tag: Texture Evaluation
+    - name: Deep Learning
+      tag: Deep Learning
     - name: Other
       tag: Other
 
