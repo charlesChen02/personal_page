@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: linkedin
       icon_pack: fab
-      name: Connect Me
+      name: Connect Me on Linkedin
       link: 'https://www.linkedin.com/in/chaoyin-chen-8246ab203'
   #   - icon: video
   #     icon_pack: fas
