@@ -6,7 +6,7 @@ title: Chaoyin Chen
 superuser: true
 
 # Role/position/tagline
-role: Master Student of University of Melbourne
+role: Master Student in the Faculty of Computer and Information System
 
 # Organizations/Affiliations to show in About widget
 organizations:
