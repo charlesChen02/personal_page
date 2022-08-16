@@ -25,3 +25,25 @@ external_link: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+
+Fine-grained Image Localization
+
+
+Project Setting:
+
+In this research project, you will develop, evaluate, and analyse a method for fine-grained localisation in a real-world environment. More information about the project can be found in the specification.
+
+Steps:
+
+To accomplish the goal, we first need to know that there are generally two different road towards the goal: traditional computer vision based and deep learning based methods. 
+
+
+For the Traditional methods, there are generally three stages for the project:
+
+1. key point extraction with feature descriptor.
+
+2. key point matching between train and test set.
+
+3. Camera Calibration and two-view localization for the final output.
+

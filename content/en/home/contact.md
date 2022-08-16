@@ -46,7 +46,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: Connect Me on Linkedin
-      link: 'https://www.linkedin.com/in/chaoyin-chen-8246ab203'
+      link: 'https://www.linkedin.com/in/chaoyinchen/'
   #   - icon: video
   #     icon_pack: fas
   #     name: Zoom Me
